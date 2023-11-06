@@ -16,7 +16,7 @@
 
 ## Latest Nowcast Run:
 Latest Release Date: 29-09-2023  
-Latest Quarter Published on ONS Website: 2023 Q3  
+Latest Quarter Published on ONS Website: 2023 Q2  
   
 Next Release Date: 28-12-2023  
 Next Quarter to be Published: 2023 Q3  
