@@ -11,20 +11,20 @@
 
 ## Predictors (Monthly):
 - Changes of Net Consumer Credit (Gross lending minus Total repayments), Seasonally Adjusted [LPMB3PS](https://www.bankofengland.co.uk/boeapps/database/FromShowColumns.asp?Travel=&searchText=LPMB3PS)
-- Changes of M4 Money Supply Holdings by Households, Seasonally Adjusted [LPMVVHR](https://www.bankofengland.co.uk/boeapps/database/FromShowColumns.asp?Travel=&searchText=LPMVVHR)
+- Changes of M4 Money Supply Holdings by Households, Seasonally Adjusted [LPMVVHS](https://www.bankofengland.co.uk/boeapps/database/FromShowColumns.asp?Travel=&searchText=LPMVVHS)
 - Cash Fiscal Deficit (commonly known as Public Sector Net Cash Requirement), Seasonally Adjusted [LPMVQRR](https://www.bankofengland.co.uk/boeapps/database/FromShowColumns.asp?Travel=&searchText=LPMVQRR)
 
 ## Latest Nowcast Run:
 Latest Release Date: 22-12-2023  
 Latest Quarter Published on ONS Website: 2023 Q3  
-
-Next Release Date: 21-03-2024  
+  
+Next Release Date: 28-03-2024  
 Next Quarter to be Published: 2023 Q4  
-Basic Nowcast (First Month only): 8.577  
-Balanced Nowcast (First Month only): 8.788  
-AR(1) Benchmark: 9.215  
-
+Basic Nowcast: 7.709  
+Balanced Nowcast: 8.506  
+AR(1) Benchmark: 9.198  
+  
 Errors:  
-RMSE for Basic Nowcast (First Month only): 2.314  
-RMSE for Balanced Nowcast (First Month only): 2.177  
-RMSE for AR(1) Benchmark: 3.529  
+RMSE for Basic Nowcast: 2.518  
+RMSE for Balanced Nowcast: 2.012  
+RMSE for AR(1) Benchmark: 3.528  
