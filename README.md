@@ -15,16 +15,16 @@
 - Cash Fiscal Deficit (commonly known as Public Sector Net Cash Requirement), Seasonally Adjusted [LPMVQRR](https://www.bankofengland.co.uk/boeapps/database/FromShowColumns.asp?Travel=&searchText=LPMVQRR)
 
 ## Latest Nowcast Run:
-Latest Release Date: 22-12-2023  
-Latest Quarter Published on ONS Website: 2023 Q3  
+Latest Release Date: 28-03-2024  
+Latest Quarter Published on ONS Website: 2023 Q4  
   
-Next Release Date: 28-03-2024  
-Next Quarter to be Published: 2023 Q4  
-Basic Nowcast: 7.709  
-Balanced Nowcast: 8.506  
-AR(1) Benchmark: 9.198  
+Next Release Date: 26-06-2024  
+Next Quarter to be Published: 2024 Q1  
+Basic Nowcast (First Month only): 8.041  
+Balanced Nowcast (First Month only): 8.324  
+AR(1) Benchmark: 9.279  
   
 Errors:  
-RMSE for Basic Nowcast: 2.518  
-RMSE for Balanced Nowcast: 2.012  
-RMSE for AR(1) Benchmark: 3.528  
+RMSE for Basic Nowcast (First Month only): 2.299  
+RMSE for Balanced Nowcast (First Month only): 2.45  
+RMSE for AR(1) Benchmark: 3.526  
